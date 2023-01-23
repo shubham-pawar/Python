@@ -2,6 +2,5 @@
 
 > python code files.
 
-> Binary Search
-> Bubble Sort
-> Selection Sort
+> Data Structure:
+- Binary Search | Bubble Sort | Selection Sort
